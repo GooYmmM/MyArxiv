@@ -77,6 +77,11 @@ limit = 150
 category = "stat.ME"
 title = "Methodology"
 
+[[sources]]
+limit = 150
+category = "cs.GR"
+title = "Graphics"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
